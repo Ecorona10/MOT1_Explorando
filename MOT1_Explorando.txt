@@ -1,0 +1,10 @@
+¿Qué es un repositorio?
+El repositorio es la carpeta de nuestro proyecto que contiene todos nuestros archivos, almacena el historial de cada archivo. Los repositorios pueden ser públicos o privados 
+
+¿Para que sirve un archivo README?
+Se puede agregar un archivo README a nuestro repositorio para comentar las características de nuestro como: 
+1. Que hace el proyecto
+2. Porque es útil
+3. Como pueden utilizar el proyecto
+4. Recibir ayuda con el proyecto
+
